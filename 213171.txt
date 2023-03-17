@@ -1,0 +1,29 @@
+git init - иницијализира празен локален гит репозиториум
+git remote add origin https://github.com/DimitrijKrstev/SI_2023_lab1_213171.git - поврзување на репозиториуми
+git add README.md - го стејџнуваме README.md фајлот
+git commit -m "Initial commit" - правиме commit со порака "Initial commit"
+git push -u origin master - pushнуваме commits на remote repo
+git add .
+git commit -m "Add java class"
+git push -u origin master
+git branch bug1
+git branch bug2
+git branch bug3
+git checkout bug1
+git push --all origin - сите гранки ги поставуваме на remote repoto
+git checkout master
+git pull origin bug1
+
+git merge bug1
+git push -u origin
+
+18.Нема конфликти
+20.Нема конфликт, ort strategy
+23.git rebase master
+24.get merge bug3 fast-forward
+
+
+git reset --soft HEAD~ 
+git restore --staged . 
+git restore . 
+git rebase --abort

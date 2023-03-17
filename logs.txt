@@ -1,0 +1,149 @@
+-------------------------------------------------------------master:
+
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/DimitrijKrstev/SI_2023_lab1_213171.git
+ + b48093e...aaadef8 bug3 -> bug3 (forced update)
+dimitrius@Dimitriuss-MBP SI_2023_lab1_213171 % git log                      
+commit aaadef8a594603a091e7b7b6e38a03d9c210d87d (HEAD -> master, 
+origin/master, origin/bug3, bug3)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 20:00:46 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 41eaea0583faba542c3202f3313530e2a8349f32
+Merge: 11c1201 25cb596
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 20:43:28 2023 +0100
+
+    Merge branch 'bug2'
+    Fix wrong condition in filterOddNumbers# the commit.
+    
+    Fix wrong condition in filterOddNumber
+
+commit 25cb596c98cebcb3c7807dea3369db4bfab8ac7e (origin/bug2, bug2)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:58:19 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 11c1201dc3bf4ec9784d7a22bf92f00633f8ae58 (origin/bug1, bug1)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:46:42 2023 +0100
+
+    Fix wrong loop for reading
+
+commit f33acb4dd8093d9cded81f9a9dda5ede90f0850f
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:37:31 2023 +0100
+
+    Add java class
+
+commit b6b7b7de575c96e2be87c8c4c38ad055f69608e8
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:29:54 2023 +0100
+
+    Initial commit
+
+-----------------------------------------------------------bug2:
+
+commit 11c1201dc3bf4ec9784d7a22bf92f00633f8ae58 (HEAD -> bug1, origin/bug1)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:46:42 2023 +0100
+
+    Fix wrong loop for reading
+
+commit f33acb4dd8093d9cded81f9a9dda5ede90f0850f
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:37:31 2023 +0100
+
+    Add java class
+
+commit b6b7b7de575c96e2be87c8c4c38ad055f69608e8
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:29:54 2023 +0100
+
+    Initial commit
+
+-----------------------------------------------------------bug1:
+
+commit 11c1201dc3bf4ec9784d7a22bf92f00633f8ae58 (HEAD -> bug1, origin/bug1)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:46:42 2023 +0100
+
+    Fix wrong loop for reading
+
+commit f33acb4dd8093d9cded81f9a9dda5ede90f0850f
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:37:31 2023 +0100
+
+    Add java class
+
+commit b6b7b7de575c96e2be87c8c4c38ad055f69608e8
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:29:54 2023 +0100
+
+    Initial commit
+
+bug2:
+
+commit 25cb596c98cebcb3c7807dea3369db4bfab8ac7e (HEAD -> bug2, origin/bug2)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:58:19 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit f33acb4dd8093d9cded81f9a9dda5ede90f0850f
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:37:31 2023 +0100
+
+    Add java class
+
+commit b6b7b7de575c96e2be87c8c4c38ad055f69608e8
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:29:54 2023 +0100
+
+    Initial commit
+
+-----------------------------------------------------bug3:
+
+commit aaadef8a594603a091e7b7b6e38a03d9c210d87d (HEAD -> bug3, origin/master, origin/bug3, master)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 20:00:46 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 41eaea0583faba542c3202f3313530e2a8349f32
+Merge: 11c1201 25cb596
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 20:43:28 2023 +0100
+
+    Merge branch 'bug2'
+    Fix wrong condition in filterOddNumbers# the commit.
+    
+    Fix wrong condition in filterOddNumber
+
+commit 25cb596c98cebcb3c7807dea3369db4bfab8ac7e (origin/bug2, bug2)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:58:19 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 11c1201dc3bf4ec9784d7a22bf92f00633f8ae58 (origin/bug1, bug1)
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:46:42 2023 +0100
+
+    Fix wrong loop for reading
+
+commit f33acb4dd8093d9cded81f9a9dda5ede90f0850f
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:37:31 2023 +0100
+
+    Add java class
+
+commit b6b7b7de575c96e2be87c8c4c38ad055f69608e8
+Author: DimitrijKrstev <antishadowss@gmail.com>
+Date:   Fri Mar 17 19:29:54 2023 +0100
+
+    Initial commit
+    Fix wrong condition in filterOddNumbers
